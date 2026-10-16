@@ -1,16 +1,14 @@
-## Hi there 👋
+# Beacon
 
-<!--
-**beacon-404/beacon-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Guiding Better Code.
 
-Here are some ideas to get you started:
+Beacon is an AI-powered code reviewer and development assistant designed to help developers build reliable, maintainable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Review** — Analyze pull requests and provide constructive feedback.
+- **Detect** — Identify potential bugs, security issues, and design problems.
+- **Improve** — Suggest practical fixes and engineering best practices.
+- **Automate** — Help maintainers streamline repetitive repository tasks.
+
+> A guiding light for better code.
+
+*Built to help developers ship with confidence.*
